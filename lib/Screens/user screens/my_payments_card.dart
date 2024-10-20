@@ -3,7 +3,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:food_ordering_app/widgets/user%20widgets/add_card_form.dart';
 import 'package:food_ordering_app/widgets/card_list_item.dart';
-import 'package:food_ordering_app/widgets/confirm_remove_card.dart';
+import 'package:food_ordering_app/widgets/user%20widgets/confirm_remove_card.dart';
 import 'package:food_ordering_app/components/show_snack_bar.dart';
 
 class MyPaymentCardsScreen extends StatefulWidget {

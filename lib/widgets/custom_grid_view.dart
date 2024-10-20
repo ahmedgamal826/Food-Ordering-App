@@ -4,9 +4,9 @@ import 'package:flutter/material.dart';
 import 'package:food_ordering_app/constants/constants_variables.dart';
 import 'package:food_ordering_app/widgets/admin%20widgets/action_admin_buttons.dart';
 import 'package:food_ordering_app/widgets/custom_name_category.dart';
-import 'package:food_ordering_app/widgets/price_admin_category.dart';
+import 'package:food_ordering_app/widgets/admin%20widgets/price_admin_category.dart';
 import 'package:food_ordering_app/widgets/price_after_discount_admin.dart';
-import 'package:food_ordering_app/widgets/price_and_favourite_button.dart';
+import 'package:food_ordering_app/widgets/user%20widgets/price_and_favourite_button.dart';
 import 'package:food_ordering_app/widgets/show_bottom_sheet.dart';
 import 'package:food_ordering_app/widgets/user%20widgets/user_category_card.dart';
 

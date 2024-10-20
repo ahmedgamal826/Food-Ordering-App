@@ -6,7 +6,7 @@ import 'package:food_ordering_app/Cubit/location%20cubit/location_cubit.dart';
 import 'package:food_ordering_app/Screens/admin%20screens/offers_screen.dart';
 import 'package:food_ordering_app/components/offers_cards_home_screen.dart';
 import 'package:food_ordering_app/widgets/my_name_and_location.dart';
-import 'package:food_ordering_app/widgets/restaurant_categories.dart';
+import 'package:food_ordering_app/widgets/user%20widgets/restaurant_categories.dart';
 import 'package:food_ordering_app/widgets/restaurant_intro_widget.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:location/location.dart' as loc;

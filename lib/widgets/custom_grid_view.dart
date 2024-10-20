@@ -8,7 +8,7 @@ import 'package:food_ordering_app/widgets/price_admin_category.dart';
 import 'package:food_ordering_app/widgets/price_after_discount_admin.dart';
 import 'package:food_ordering_app/widgets/price_and_favourite_button.dart';
 import 'package:food_ordering_app/widgets/show_bottom_sheet.dart';
-import 'package:food_ordering_app/widgets/user_category_card.dart';
+import 'package:food_ordering_app/widgets/user%20widgets/user_category_card.dart';
 
 class CustomGridView extends StatelessWidget {
   final List<DocumentSnapshot> documents;

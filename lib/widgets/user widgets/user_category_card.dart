@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:food_ordering_app/widgets/discount_image.dart';
-import 'custom_image_offers.dart'; // Update with your actual path
-import 'custom_text_widget.dart'; // Update with your actual path
-import 'price_before_discount_widget.dart'; // Update with your actual path
-import 'price_after_discount.dart'; // Update with your actual path
+import '../custom_image_offers.dart'; // Update with your actual path
+import '../custom_text_widget.dart'; // Update with your actual path
+import '../price_before_discount_widget.dart'; // Update with your actual path
+import '../price_after_discount.dart'; // Update with your actual path
 import 'favourite_icon_button.dart'; // Update with your actual path
 
 class UserCategoryCard extends StatelessWidget {

@@ -108,7 +108,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:food_ordering_app/Cubit/favourites%20cubit/favourites_cubit.dart';
 import 'package:food_ordering_app/Cubit/favourites%20cubit/favourites_states.dart';
-import 'package:food_ordering_app/widgets/favourite_card.dart';
+import 'package:food_ordering_app/widgets/user%20widgets/favourite_card.dart';
 
 class FavouriteScreen extends StatefulWidget {
   @override

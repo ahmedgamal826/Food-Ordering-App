@@ -188,12 +188,10 @@ class _AdminProfileScreenState extends State<AdminProfileScreen> {
               ),
             );
           }
-
           // Display user information
-
           return Scaffold(
             appBar: AppBar(
-              automaticallyImplyLeading: false,
+              leading: const Text(''),
               backgroundColor: Colors.orange,
               centerTitle: true,
               title: const Text(

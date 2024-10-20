@@ -16,6 +16,7 @@ class CustomAppbarOrderManagement extends StatelessWidget
   @override
   Widget build(BuildContext context) {
     return AppBar(
+      leading: const Text(''),
       iconTheme: const IconThemeData(color: Colors.white),
       centerTitle: true,
       title: const Text(

@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:food_ordering_app/Cubit/location%20cubit/location_cubit.dart';
 import 'package:food_ordering_app/Services/auth/auth_services_user.dart';
-import 'package:food_ordering_app/widgets/restaurant_list_view.dart';
+import 'package:food_ordering_app/widgets/user%20widgets/restaurant_list_view.dart';
 
 class RestaurantHomePage extends StatelessWidget {
   const RestaurantHomePage({super.key});

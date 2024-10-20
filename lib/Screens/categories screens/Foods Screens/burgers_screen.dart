@@ -2,7 +2,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:food_ordering_app/Screens/admin%20screens/add_food_page.dart';
 import 'package:food_ordering_app/components/food_list.dart';
-import 'package:food_ordering_app/widgets/search_textform_field.dart';
+import 'package:food_ordering_app/widgets/user%20widgets/search_textform_field.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 
 class BurgersScreen extends StatefulWidget {

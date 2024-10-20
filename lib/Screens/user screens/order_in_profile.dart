@@ -3,7 +3,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_storage/firebase_storage.dart';
 import 'package:flutter/material.dart';
 import 'package:food_ordering_app/Screens/admin%20screens/finanicial_managmenet_screen.dart';
-import 'package:food_ordering_app/widgets/order_card_in_profile.dart';
+import 'package:food_ordering_app/widgets/user%20widgets/order_card_in_profile.dart';
 import 'package:intl/intl.dart'; // Import FirebaseAuth
 
 class OrderInProfileUser extends StatefulWidget {

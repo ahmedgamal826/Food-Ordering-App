@@ -287,7 +287,7 @@ import 'package:flutter/material.dart';
 import 'package:food_ordering_app/Screens/admin%20screens/finanicial_managmenet_screen.dart';
 import 'package:food_ordering_app/components/loading_dots.dart';
 import 'package:food_ordering_app/widgets/admin%20widgets/custom_appbar_order_management.dart';
-import 'package:food_ordering_app/widgets/order_management_card.dart';
+import 'package:food_ordering_app/widgets/admin%20widgets/order_management_card.dart';
 import 'package:intl/intl.dart';
 
 class OrdersManagment extends StatefulWidget {

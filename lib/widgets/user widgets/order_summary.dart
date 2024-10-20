@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:food_ordering_app/widgets/user%20widgets/dismissble_product_card.dart';
-import 'user widgets/checkout_button.dart';
+import 'checkout_button.dart';
 
 class OrderSummary extends StatelessWidget {
   final List<dynamic> items;

@@ -4,7 +4,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:food_ordering_app/Services/auth/auth_services_user.dart';
 import 'package:food_ordering_app/widgets/get_item_count_order.dart';
-import 'package:food_ordering_app/widgets/order_summary.dart';
+import 'package:food_ordering_app/widgets/user%20widgets/order_summary.dart';
 import 'package:food_ordering_app/components/show_snack_bar.dart';
 import 'package:provider/provider.dart';
 

@@ -268,7 +268,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:food_ordering_app/Services/auth/auth_services_user.dart';
 import 'package:food_ordering_app/components/loading_dots.dart';
-import 'package:food_ordering_app/widgets/register_single_child_list_view.dart';
+import 'package:food_ordering_app/widgets/user%20widgets/register_single_child_list_view.dart';
 import 'package:food_ordering_app/components/show_snack_bar.dart';
 import 'package:provider/provider.dart';
 

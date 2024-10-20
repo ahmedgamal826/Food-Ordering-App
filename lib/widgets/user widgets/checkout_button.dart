@@ -7,7 +7,7 @@ import 'package:food_ordering_app/widgets/build_delivery_address.dart';
 import 'package:food_ordering_app/widgets/card_list_item.dart';
 import 'package:food_ordering_app/widgets/user%20widgets/credit_card_list.dart';
 import 'package:food_ordering_app/widgets/user%20widgets/custom_check_button.dart';
-import 'package:food_ordering_app/widgets/delivery_dialog_error.dart';
+import 'package:food_ordering_app/components/delivery_dialog_error.dart';
 import 'package:food_ordering_app/components/error_card_dialog.dart';
 import 'package:food_ordering_app/widgets/user%20widgets/invoice_dialog.dart';
 import 'package:food_ordering_app/widgets/map_screen.dart';
